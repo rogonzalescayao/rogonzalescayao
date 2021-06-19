@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.shop{
+    padding: 20px;
+    background:#fe7105 ;
+    position: fixed;
+    width: 100%;
+    z-index:2;
+    box-shadow: 0 0 10px 0;
+
+}
+.shopee{
+    position:relative;
+    color: rgb(0, 0, 0);
+    z-index:2;
+    top:150px;
+    background: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+    right:50px;
+    cursor: pointer;
+
+  }
+.Dropme{
+    position: relative;
+    z-index:2;
+    display: flex;
+    justify-content: space-around;
+    float: right;
+    width: 25%;
+    top:4px;
+    list-style: none;
+}
+.Dropme li{
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+#bg{
+    position: absolute;
+}
+.left{
+position: relative;
+position: fixed;
+left:-50px;
+top:40px;
+opacity:0.5;
+}
+.downleft{
+    position: relative;
+    position: fixed;
+    left:-50px;
+    top:75%;
+    opacity:0.5;
+    }
+.right{
+    position: relative;
+    position: fixed;
+left:80%;
+opacity:0.5;
+    }
+    .downright{
+        position: relative;
+        position: fixed;
+    left:80%;
+    top:70%;
+    opacity:0.5;
+        }
+    #bgdrop{
+        list-style: none;
+    }
+h3{
+    color: white;
+
+}
+h5{
+    color: white;
+}
+.baligya{
+position: relative;
+padding: 10px;
+top:100px;
+}
+#shawarma{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    align-items: center;
+   width:70%;
+}
+#shawarma li{
+    padding: 20px;
+}
+button{
+background: white;
+border: none;
+cursor: pointer;
+    padding:20px 50px;
+}

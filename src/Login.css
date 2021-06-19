@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.shope{
+  position:relative;
+  color: rgb(0, 0, 0);
+  z-index:2;
+  top:150px;
+  background: none;
+  font-weight: bold;
+  letter-spacing: 1px;
+  right:50px;
+  cursor: pointer;
+}
+.Container1{
+    background:#fe7105 ;
+    padding:30px;
+    position: relative;
+    z-index:2;
+}
+body{
+    background: #252429;
+    overflow-x: hidden;
+}
+.Drop{
+    background:#fe7105 ;
+    padding:px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    float: right;
+    margin: auto;
+    width: 25%;  
+    top:-10px;
+    position: relative;
+}
+.Drop li{
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.logo{
+    position: relative;
+    top:-120px;
+}
+.Container2{
+    position: relative;
+    top:100px;
+
+}
+
+input{
+    padding: 10px;
+    border-radius:2px;
+    outline: none;
+    border: none;
+    position: relative;
+    top:-120px;
+}
+a{
+    position: relative;
+    top:-150px;
+    left:65px;
+    color: white;
+}
+.Login li{
+    margin-bottom:10px;
+}
+#Login{
+    width: 300px;
+    height: 270px;
+    list-style: none;
+    border-radius:10px;
+    padding: 30px;
+    box-shadow: 0 0 10px 0;
+    }
+    .btn{
+        border: 1px solid black;
+        background: white;
+        letter-spacing: 2px;
+        position: relative;
+        right:125px;
+        top:30px;
+        cursor: pointer;
+       
+    }
