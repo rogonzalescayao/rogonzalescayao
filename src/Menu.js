@@ -16,7 +16,7 @@ function Shawarma(){
  <section>
       <div className="shop">
         <ul className="Dropme">
-           <Link to="./rogonzalescayao"><li className="shopee">Login</li></Link>
+           <Link to="./"><li className="shopee">Login</li></Link>
             <li>Shop</li>
         </ul>
     </div>

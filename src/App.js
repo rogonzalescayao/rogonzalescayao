@@ -2,19 +2,19 @@ import logo from './logo.svg';
 import Login from './rogonzalescayao';
 import Menu from './Menu';
 
-import {HashRouter as Router, Switch, Route} from 'react-router-dom';
+import { HashRouter, Route, Switch } from "react-router-dom";
 function App() {
   return (
-    <Router>
+ 
+    <HashRouter basename={process.env.PUBLIC_URL}>
     <div className="Login">
       <Switch>
-      <Route path="/" exact component={Login}/>
-     <Route path="/rogonzalescayao" exact component={Login}/>
-     <Route path="/Menu" component={Menu}/>
+      <Route exact path="/" component={Login}/>
+     <Route exact path="/Menu" component={Menu}/>
      </Switch>
     </div>
-    
-    </Router>
+    </HashRouter>
+  
   );
 }
 
