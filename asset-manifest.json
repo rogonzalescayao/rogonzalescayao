@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/rogonzalescayao/static/css/main.76e7d99d.chunk.css",
+    "main.js": "/rogonzalescayao/static/js/main.fc633c70.chunk.js",
+    "main.js.map": "/rogonzalescayao/static/js/main.fc633c70.chunk.js.map",
+    "runtime-main.js": "/rogonzalescayao/static/js/runtime-main.c45443d6.js",
+    "runtime-main.js.map": "/rogonzalescayao/static/js/runtime-main.c45443d6.js.map",
+    "static/js/2.7197329a.chunk.js": "/rogonzalescayao/static/js/2.7197329a.chunk.js",
+    "static/js/2.7197329a.chunk.js.map": "/rogonzalescayao/static/js/2.7197329a.chunk.js.map",
+    "static/js/3.ee68ffa3.chunk.js": "/rogonzalescayao/static/js/3.ee68ffa3.chunk.js",
+    "static/js/3.ee68ffa3.chunk.js.map": "/rogonzalescayao/static/js/3.ee68ffa3.chunk.js.map",
+    "index.html": "/rogonzalescayao/index.html",
+    "static/css/main.76e7d99d.chunk.css.map": "/rogonzalescayao/static/css/main.76e7d99d.chunk.css.map",
+    "static/js/2.7197329a.chunk.js.LICENSE.txt": "/rogonzalescayao/static/js/2.7197329a.chunk.js.LICENSE.txt",
+    "static/media/Burger.51241879.png": "/rogonzalescayao/static/media/Burger.51241879.png",
+    "static/media/Fries.4d050f01.png": "/rogonzalescayao/static/media/Fries.4d050f01.png",
+    "static/media/Pasta.0282cca9.png": "/rogonzalescayao/static/media/Pasta.0282cca9.png",
+    "static/media/Pizza.fac8cdcd.png": "/rogonzalescayao/static/media/Pizza.fac8cdcd.png",
+    "static/media/Rice.6fda8eb0.png": "/rogonzalescayao/static/media/Rice.6fda8eb0.png",
+    "static/media/ShawarmaFries.8085c561.png": "/rogonzalescayao/static/media/ShawarmaFries.8085c561.png",
+    "static/media/ShawarmaPizza.adf7b5e8.png": "/rogonzalescayao/static/media/ShawarmaPizza.adf7b5e8.png",
+    "static/media/ShawarmaRice.d4293d15.png": "/rogonzalescayao/static/media/ShawarmaRice.d4293d15.png",
+    "static/media/ShawarmaWrap.0f7c233a.png": "/rogonzalescayao/static/media/ShawarmaWrap.0f7c233a.png",
+    "static/media/Wrap.489628db.png": "/rogonzalescayao/static/media/Wrap.489628db.png",
+    "static/media/logo.6ce24c58.svg": "/rogonzalescayao/static/media/logo.6ce24c58.svg",
+    "static/media/logo.951b9fa3.png": "/rogonzalescayao/static/media/logo.951b9fa3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c45443d6.js",
+    "static/js/2.7197329a.chunk.js",
+    "static/css/main.76e7d99d.chunk.css",
+    "static/js/main.fc633c70.chunk.js"
+  ]
+}
