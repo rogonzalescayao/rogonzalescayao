@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import Login from './Login';
+import Login from './rogonzalescayao';
 import Menu from './Menu';
 
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
@@ -9,7 +9,7 @@ function App() {
     <div className="Login">
       <Switch>
       <Route path="/" exact component={Login}/>
-     <Route path="/Login" exact component={Login}/>
+     <Route path="/rogonzalescayao" exact component={Login}/>
      <Route path="/Menu" component={Menu}/>
      </Switch>
     </div>
